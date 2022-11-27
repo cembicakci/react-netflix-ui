@@ -29,10 +29,10 @@ function ListItem({ index }) {
 
           <div className="itemInfo">
             <div className="icons">
-              <PlayArrowIcon />
-              <AddIcon />
-              <ThumbUpOutlinedIcon />
-              <ThumbDownOutlinedIcon />
+              <PlayArrowIcon className='icon'/>
+              <AddIcon className='icon'/>
+              <ThumbUpOutlinedIcon className='icon'/>
+              <ThumbDownOutlinedIcon className='icon'/>
             </div>
 
             <div className="itemInfoTop">
