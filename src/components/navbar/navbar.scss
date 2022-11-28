@@ -28,6 +28,21 @@
                 margin-right: 40px;
             }
 
+            ul{
+                display: flex;  
+
+                li{
+                    list-style: none;
+                    margin-right: 15px;
+                    font-size: 18px;
+
+                    a{
+                        text-decoration: none;
+                        color: #fff;
+                    }
+                }
+            }
+
             span {
                 margin-right: 20px;
                 cursor: pointer;
